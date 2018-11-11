@@ -1,6 +1,7 @@
 # Week 8 Project: Pentesting Live Targets
 Time spent: **4** hours spent in total
-> Objective: The goal is to identify which two vulnerabilities the blue target has, which two vulnerabilities the green target has, and which two vulnerabilities the red target has.
+
+# Objective: The goal is to identify which two vulnerabilities the blue target has, which two vulnerabilities the green target has, and which two vulnerabilities the red target has.
 The possible exploits are:
 [x] Username Enumeration
 [x] Insecure Direct Object Reference (IDOR)
