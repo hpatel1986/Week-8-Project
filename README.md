@@ -6,10 +6,15 @@ Time spent: **4** hours spent in total
 The possible exploits are:
 
 [x] Username Enumeration
+
 [x] Insecure Direct Object Reference (IDOR)
+
 [x] SQL Injection (SQLi)
+
 [] Cross-Site Scripting (XSS)
+
 [x] Cross-Site Request Forgery (CSRF)
+
 [x] Session Hijacking/Fixation
 
 
